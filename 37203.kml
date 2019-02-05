@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Map of North Carolina 1829]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>38.81760951754813</north>
+          <south>31.557230212255654</south>
+          <east>-73.49400950777988</east>
+          <west>-85.44899376624957</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>http://mapwarper.net/maps/37203.kml?DBOX=-85.44899376624957,31.557230212255654,-73.49400950777988,38.81760951754813,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
